@@ -18,6 +18,14 @@ This project demonstrates how data preprocessing, feature engineering, and model
 
 ---
 
+## 📊 Visual Insights
+
+Below are the key visualizations showcasing the correlation, feature importance, and relationships across variables used in the model:
+
+![Titanic Data Visuals](titanic_analysis_overview.png)
+
+---
+
 ## ⚙️ Features Engineered
 - **Title extraction** (Mr, Miss, Mrs, etc.)
 - **FamilySize** and **IsAlone**
