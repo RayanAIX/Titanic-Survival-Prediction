@@ -312,17 +312,3 @@ pd.DataFrame({
 # -------------------------------
 files.download("titanic_submission_highscore.csv")
 files.download("titanic_preds_debug.csv")
-
-# -------------------------------
-# Step 15: Next steps & tips after running
-# -------------------------------
-print("""
-DONE — submission file downloaded.
-
-Next tips:
-1) If score still < 0.80: iterate on features (ticket prefix groups, more title grouping, specialized age imputation).
-2) Try LightGBM/CatBoost with similar tuning — they sometimes beat XGBoost on small tabular data.
-3) Try Bayesian optimization (Optuna) to search hyperparameters more efficiently.
-4) Increase n_iter in RandomizedSearchCV if you have more time.
-5) Try stratified bagging (train same model on different seeds and average).
-""")
