@@ -66,7 +66,7 @@ Below are the key visualizations showcasing the correlation, feature importance,
 ## 👨‍💻 Author
 **Muhammad Rayan Shahid**  
 AI/ML Engineer | Kaggle Competitor  
-🌐 [GitHub](https://github.com/muhammadrayans) • [LinkedIn](https://linkedin.com/in/muhammadrayans) • [Kaggle](https://www.kaggle.com/muhammadrayans) • [YouTube](https://www.youtube.com/@ByteBrillianceAI)
+🌐 [GitHub](https://github.com/muhammadrayans) • [LinkedIn](https://linkedin.com/in/muhammadrayanshahid) • [Kaggle](https://www.kaggle.com/muhammadrayans) • [YouTube](https://www.youtube.com/@ByteBrillianceAI)
 
 ---
 
